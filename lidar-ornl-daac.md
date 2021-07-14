@@ -13,7 +13,7 @@ A curated list of terrestrial, airborne, and satellite lidar datasets archived a
 | Airborne   |  Small |  Discrete-return | LiDAR Data for Forested Sites on Borneo Island, Kalimantan | Indonesia  | 2014   | [DOI](https://doi.org/10.3334/ORNLDAAC/1518) |
 | Airborne   |  Small |  Discrete-return | LiDAR Data for Mangrove Forests in the Zambezi River Delta | Mozambique  | 2014   | [DOI](https://doi.org/10.3334/ORNLDAAC/1521) |
 | Airborne   |  Small |  Discrete-return | LiDAR Data, DEM, and Maximum Vegetation Height Product from Southern Idaho | USA  | 2014   | [DOI](https://doi.org/10.3334/ORNLDAAC/1532) |
-| Terrestrial  |  Small |   Discrete return | ABoVE: Terrestrial Lidar Scanning Forest-Tundra Ecotone, Brooks Range, Alaska | USA  | 2008-2018   | [DOI](https://doi.org/10.3334/ORNLDAAC/1782) |
+| TLS  |  Small |   Discrete return | Terrestrial Lidar Scanning Forest-Tundra Ecotone, Brooks Range, Alaska | USA  | 2008-2018   | [DOI](https://doi.org/10.3334/ORNLDAAC/1782) |
 
 ### Derived Products (~ Levels 3-4) 
 | Science Variables<sup>*</sup>  |  Resolution |  Description   | Region | Time Period | Download | Visualize |
@@ -49,11 +49,18 @@ A curated list of terrestrial, airborne, and satellite lidar datasets archived a
 | VM | 20cm | High-Resolution Vegetation Community Maps, Toolik Lake Area, Alaska | USA | 2013-2015  | [DOI](https://doi.org/10.3334/ORNLDAAC/1690) | - |
 | AGB | 30m | Annual Aboveground Biomass Maps for Forests in the Northwestern USA | USA | 2000-2016  | [DOI](https://doi.org/10.3334/ORNLDAAC/1719) | - |
 | AGB | 30m | LiDAR Biomass Improved for High Biomass Forests, Sonoma County, CA | USA | 2013  | [DOI](https://doi.org/10.3334/ORNLDAAC/1764) | - |
-| AGB | 30m | LiDAR Derived Forest Aboveground Biomass Maps, Northwestern USA | USA | 2002-2016  | [DOI](https://doi.org/10.3334/ORNLDAAC/1766) | - |
-
+| AGB, CHM, TC, TM | 25m | Gridded Forest Biomass and Canopy Metrics Derived from LVIS | Gabon | 2016  | [DOI](https://doi.org/10.3334/ORNLDAAC/1775) | - |
+| AGB, TC | 100m | Gridded Estimates of Woody Cover and Biomass across Sub-Saharan Africa | Africa | 2000-2004  | [DOI](https://doi.org/10.3334/ORNLDAAC/1777) | - |
+| TM | 1m | Digital Elevation Models for the Global Change Research Wetland, Maryland | USA | 2011 | [DOI](https://doi.org/10.3334/ORNLDAAC/1793) | - |
+| AGB | 30m | Annual Aboveground Biomass for Boreal Forests of ABoVE Core Domain | USA | 1984-2014 | [DOI](https://doi.org/10.3334/ORNLDAAC/1808) | - |
+| AGB | 500m | Aboveground Biomass Change for Amazon Basin, Mexico, and Pantropical Belt | Pantropical | 2003-2016 | [DOI](https://doi.org/10.3334/ORNLDAAC/1824) | [SDAT](https://webmap.ornl.gov/ogcdown/dataset.jsp?ds_id=1824)|
+| AGB | 30m | LiDAR Derived Biomass, Canopy Height, and Cover for New England Region | USA | 2015 | [DOI](https://doi.org/10.3334/ORNLDAAC/1854) | [SDAT](https://webmap.ornl.gov/ogcdown/dataset.jsp?ds_id=1854)|
+| CHM<sup>$</sup> | 100m | Global 1km Forest Canopy Height | Global | 2011  | [JPL](https://landscape.jpl.nasa.gov/) | [SDAT](https://webmap.ornl.gov/ogc/dataset.jsp?dg_id=10023_1) |
 
 - <sup>*</sup> AGB = aboveground biomass; CHM = canopy height metrics; TC = tree cover; TM = topographic metrics; VM = vegetation map
 - <sup>#</sup> SAR+LiDAR
+- <sup>$</sup> Not archived at ORNL DAAC, but available through SDAT interface
+
 
 ### Concomitant Field Data (~ Levels 3-4) 
 - https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1552
