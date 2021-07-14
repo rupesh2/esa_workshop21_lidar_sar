@@ -44,6 +44,7 @@ A curated list of terrestrial, airborne, and satellite lidar datasets archived a
 | AGB, CHM, TC | 100m | Aboveground Biomass, Landcover, and Degradation, Kalimantan Forests| Indonesia | 2014 | [DOI](https://doi.org/10.3334/ORNLDAAC/1645) | [SDAT](https://webmap.ornl.gov/ogcdown/dataset.jsp?ds_id=1645) |
 | AGB<sup>#</sup> | 50m | LiDAR and PALSAR-Derived Forest Aboveground Biomass, Paragominas, Para  | Brazil | 2012 | [DOI](https://doi.org/10.3334/ORNLDAAC/1648) | [SDAT](https://webmap.ornl.gov/ogcdown/dataset.jsp?ds_id=1648) |
 | AGB | 50m | Forest Aboveground Biomass and Carbon Sequestration Potential for Maryland  | USA | 2011 | [DOI](https://doi.org/10.3334/ORNLDAAC/1660) | - |
+| AGB, CHM | 30m | Global Mangrove Distribution, Aboveground Biomass, and Canopy Height  | Global | 2000-2009 | [DOI](https://doi.org/10.3334/ORNLDAAC/1665) | [SDAT](https://webmap.ornl.gov/ogcdown/dataset.jsp?ds_id=1665) |
 | AGB | 30m | Disturbance History and Forest Biomass from Landsat for Six US Sites  | USA | 1985-2014 | [DOI](https://doi.org/10.3334/ORNLDAAC/1679) | - |
 | AGB | 50m | Aboveground Biomass for Lope, Mabounie, Mondah, and Rabi Sites | Gabon | 2010-2016 | [DOI](https://doi.org/10.3334/ORNLDAAC/1681) | - |
 | VM | 20cm | High-Resolution Vegetation Community Maps, Toolik Lake Area, Alaska | USA | 2013-2015  | [DOI](https://doi.org/10.3334/ORNLDAAC/1690) | - |
@@ -55,6 +56,8 @@ A curated list of terrestrial, airborne, and satellite lidar datasets archived a
 | AGB | 30m | Annual Aboveground Biomass for Boreal Forests of ABoVE Core Domain | USA | 1984-2014 | [DOI](https://doi.org/10.3334/ORNLDAAC/1808) | - |
 | AGB | 500m | Aboveground Biomass Change for Amazon Basin, Mexico, and Pantropical Belt | Pantropical | 2003-2016 | [DOI](https://doi.org/10.3334/ORNLDAAC/1824) | [SDAT](https://webmap.ornl.gov/ogcdown/dataset.jsp?ds_id=1824)|
 | AGB | 30m | LiDAR Derived Biomass, Canopy Height, and Cover for New England Region | USA | 2015 | [DOI](https://doi.org/10.3334/ORNLDAAC/1854) | [SDAT](https://webmap.ornl.gov/ogcdown/dataset.jsp?ds_id=1854)|
+| CHM | 1000m | GEDI L3 Gridded Land Surface Metrics | USA | 2019-2020 | [DOI](https://doi.org/10.3334/ORNLDAAC/1865) | [SDAT](https://webmap.ornl.gov/ogcdown/dataset.jsp?ds_id=1865)|
+
 | CHM<sup>$</sup> | 100m | Global 1km Forest Canopy Height | Global | 2011  | [JPL](https://landscape.jpl.nasa.gov/) | [SDAT](https://webmap.ornl.gov/ogc/dataset.jsp?dg_id=10023_1) |
 
 - <sup>*</sup> AGB = aboveground biomass; CHM = canopy height metrics; TC = tree cover; TM = topographic metrics; VM = vegetation map
@@ -63,4 +66,7 @@ A curated list of terrestrial, airborne, and satellite lidar datasets archived a
 
 
 ### Concomitant Field Data (~ Levels 3-4) 
+- https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=836
+- https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1063
+- https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1145
 - https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1552
