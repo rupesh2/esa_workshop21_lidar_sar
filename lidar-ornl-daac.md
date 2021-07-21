@@ -2,7 +2,7 @@
 
 A curated list of terrestrial, airborne, and satellite lidar datasets archived at ORNL DAAC.
 
-### Raw LiDAR (Processing Levels ~1-2) 
+## Raw LiDAR (Processing Levels ~1-2) 
 | Platform   | Footprint   | Technology   | Description   | Region | Time Period |
 | ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- | 
 | Airborne   | Large | Full-waveform | [BOREAS Scanning Lidar Imager of Canopies by Echo Recovery (SLICER)](https://doi.org/10.3334/ORNLDAAC/508) | Canada  | 1996  | 
@@ -15,9 +15,9 @@ A curated list of terrestrial, airborne, and satellite lidar datasets archived a
 | Airborne   |  Small |  Discrete-return | [LiDAR Data, DEM, and Maximum Vegetation Height Product from Southern Idaho](https://doi.org/10.3334/ORNLDAAC/1532) | USA  | 2014 | 
 | TLS  |  Small | Discrete return | [Terrestrial Lidar Scanning Forest-Tundra Ecotone, Brooks Range, Alaska](https://doi.org/10.3334/ORNLDAAC/1782) | USA  | 2008-2018   |
 
-### Derived Products (Processing Levels ~3-4) 
+## Derived Products (Processing Levels ~3-4) 
 
-#### Global Products
+### Global Products
 | Science Variables<sup>*</sup>  |  Resolution |  Description   |Time Period |
 | ----------- | ----------- | ----------- | ----------- | 
 | CHM | Site | [GLAS LiDAR-derived Global Estimates of Forest Canopy Height](https://doi.org/10.3334/ORNLDAAC/1271) | 2004-2008 |
@@ -25,7 +25,7 @@ A curated list of terrestrial, airborne, and satellite lidar datasets archived a
 | CHM, TM | 1000m | [GEDI L3 Gridded Land Surface Metrics](https://doi.org/10.3334/ORNLDAAC/1865) | 2019-2020 | 
 | CHM<sup>$</sup> | 1000m | [Global 1km Forest Canopy Height](https://webmap.ornl.gov/ogc/dataset.jsp?dg_id=10023_1) | 2011  | 
 
-#### Regional/Local Products
+### Regional/Local Products
 | Science Variables<sup>*</sup>  |  Resolution |  Description   | Region | Time Period |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | AGB | 20-50m | [LiDAR-derived Estimates of Aboveground Biomass at Four Forested Sites](https://doi.org/10.3334/ORNLDAAC/1577) | USA | 2011 | 
@@ -70,8 +70,7 @@ A curated list of terrestrial, airborne, and satellite lidar datasets archived a
 - <sup>#</sup> SAR+LiDAR
 - <sup>$</sup> Not archived at ORNL DAAC, but available through SDAT interface
 
-
-### Concomitant Field Data (~ Levels 3-4) 
+## Concomitant Field Data (~ Levels 3-4) 
 - https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=836
 - https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1063
 - https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1145
